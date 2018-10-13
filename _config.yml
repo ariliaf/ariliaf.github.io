@@ -25,7 +25,7 @@ github_username:  ariliaf
 
 # Build settings
 markdown: kramdown
-theme: Cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
