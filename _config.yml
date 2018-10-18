@@ -25,10 +25,7 @@ github_username:  ariliaf
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
-=======
-theme: jekyll-theme-merlot
->>>>>>> 98ade7f8c9b0d15d56960063d005474b3202318d
+theme: Minima
 plugins:
   - jekyll-feed
 
