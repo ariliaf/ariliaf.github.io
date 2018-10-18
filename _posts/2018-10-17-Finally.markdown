@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Finally!!"
+date:   2018-10-17 19:57:50 -0400
+categories: Personal
+---
+Wow. I finally have a post up. In true CS fashion, I am eating my favorite
+spicy sweet chili Doritos as I write this, which has reminded me to find my keyboard
+cover. This site will mostly be for tracking my life updates about tech, food,
+or anything else that pops into my head. We'll see.
