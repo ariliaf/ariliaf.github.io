@@ -127,6 +127,7 @@ pre {
  * Wrapper
  */
 .wrapper {
+  background-image: url(https://cdn.shopify.com/s/files/1/0005/7196/5500/products/101639-e_2048x2048.jpg?v=1524302488);
   max-width: -webkit-calc(800px - (30px * 2));
   max-width: calc(800px - (30px * 2));
   margin-right: auto;
